@@ -1,0 +1,11 @@
+{
+  "name": "sasstest",
+  "version": "0.0.1",
+  "description": "This is for testing Sass",
+  "repository": {
+    "type": "git",
+    "url": "?.git"
+  },
+  "author": "Saleem Rawn",
+  "license": "ISC"
+}
